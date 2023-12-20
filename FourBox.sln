@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FourBox", "FourBox.csproj", "{2A80916C-F65B-4A1D-AE57-882F88C8EFAE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2A80916C-F65B-4A1D-AE57-882F88C8EFAE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2A80916C-F65B-4A1D-AE57-882F88C8EFAE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2A80916C-F65B-4A1D-AE57-882F88C8EFAE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2A80916C-F65B-4A1D-AE57-882F88C8EFAE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {35E9125B-3A05-4243-862C-9CE57194970D}
+	EndGlobalSection
+EndGlobal
